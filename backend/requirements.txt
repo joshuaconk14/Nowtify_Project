@@ -1,2 +1,4 @@
+# flask requests were installed into venv w/ pip
+
 Flask
 requests
