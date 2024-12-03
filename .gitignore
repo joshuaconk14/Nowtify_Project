@@ -1,0 +1,8 @@
+# node modules
+node_modules/
+
+#DS_store
+.DS_Store
+
+#dump file
+dump.rdb
